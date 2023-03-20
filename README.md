@@ -1,2 +1,1 @@
-juliaan jack
-data scientist
+
